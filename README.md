@@ -1,6 +1,6 @@
-# fizzBuzz
+# BizzBuzz
 
-#### Software simples em java de um jogo "fizzBuzz" exemplificando utilização de teste e cobertura com maven.
+#### Software simples em java de um jogo "BizzBuzz" exemplificando utilização de teste e cobertura com maven.
 
 ### Para executar o teste via cmd
 - Clone o repositório
