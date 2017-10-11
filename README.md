@@ -10,5 +10,10 @@
   - Caso ocorra o erro de "BUILD FAILURE", execute novamente o comando para verificar se realmente existe falha. Provavelmente bug do maven, desconheço o motivo.
 - Digite "mvn cobertura:cobertura"
 - Para verificar a cobertura dos testes, vá até o local onde se encontra o projeto, depois : anoBissexto -> target -> site -> index.html
+
+## Requisitos/Dependências necessárias
+- Maven
+- JUnit 4 ou superior
+
 ## Finalidade
 - Acadêmica
